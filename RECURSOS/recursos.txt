@@ -1,0 +1,4 @@
+***RECURSOS***
+
+- Descargar eclipse desde su página web.
+- Descargar JDK.
