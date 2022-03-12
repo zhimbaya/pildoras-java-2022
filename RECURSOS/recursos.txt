@@ -1,4 +1,6 @@
 ***RECURSOS***
 
 - Descargar eclipse desde su página web.
+- Descargar intellij idea
+- Descargar openJdk, zulu,
 - Descargar JDK.
