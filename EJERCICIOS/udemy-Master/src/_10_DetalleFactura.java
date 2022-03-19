@@ -16,6 +16,7 @@ public class _10_DetalleFactura {
         Scanner precio2;
 
         try {
+            //CREAR UN FOR
             System.out.println("Introducir el primer precio");
             precio1 = new Scanner(System.in);
             Double precio1Double = precio1.nextDouble();
@@ -31,7 +32,7 @@ public class _10_DetalleFactura {
             sumaFactura = precio1Double + precio2Double;
             impuestoFactura = sumaFactura * 0.19D;
             totalFactura += sumaFactura + impuestoFactura;
-
+            //MEJORA CON UN SOLO OUTPUT
             System.out.println("La factura------* " + nombreFactura);
             System.out.println("Importe bruto...$ " + sumaFactura);
             System.out.println("Impuesto........$ " + impuestoFactura);
