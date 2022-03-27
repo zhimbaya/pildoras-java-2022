@@ -4,3 +4,10 @@
 - Descargar intellij idea
 - Descargar openJdk, zulu,
 - Descargar JDK.
+
+- Plugins instalar temas en IntelliJ idea
+
+- terminal: tldr //https://tldr.sh/
+- terminal: idea
+- terminal: LazyGit 
+- terminal bat: https://github.com/sharkdp/bat //brew install bat
