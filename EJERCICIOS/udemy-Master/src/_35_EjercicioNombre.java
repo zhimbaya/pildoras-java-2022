@@ -20,7 +20,7 @@ public class _35_EjercicioNombre {
             nombre1 = JOptionPane.showInputDialog("Introduce el nombre 1 y apellido ", "Diego Armando");
             nombre2 = JOptionPane.showInputDialog(null, "Introducir el nombre 2 y apellido");
             nombre3 = JOptionPane.showInputDialog(null, "Introducir el nombre 3 y apellido");
-            
+
             arraynombre1 = nombre1.split(" ");
             arraynombre2 = nombre2.split(" ");
             arraynombre3 = nombre3.split(" ");
