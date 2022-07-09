@@ -6,7 +6,7 @@ public class _01_EjemploArraysFor {
         String[] productos = new String[5];
         int total = productos.length;
 
-        productos[0] = "kingston pendrive 64gb";
+        productos[0] = "Kingston pendrive 64gb";
         productos[1] = "Samsung galaxy";
         productos[2] = "Disco duro ssd";
         productos[3] = "Asus Notebook";
